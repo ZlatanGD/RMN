@@ -1,0 +1,28 @@
+	- Équipe 4
+		3802787 Friguet Nicolas
+		3803083 Zhang Xu
+		3801873 Gojak Zlatan
+    
+    Exercice 1
+1)Les resultats qu'on obtient avec dichotomie sont:
+
+=====L’algorithme procède par dichotomie=====
+f: 1.386294e+00
+g: -1.415927e-01
+h: 3.971626e-01
+p: -7.005461e-01
+
+2)Les resultats qu'on obtient par l'algorithme basé sur la methode de Newton sont:
+=====L’algorithme est basé sur la méthode de Newton=====
+f: 1.386294e+00
+g: -1.415927e-01
+h: 3.971626e-01
+p: -5.550174e-08
+
+3) Les resultats qu'on obtien par la combinaison de l'algorithme de bissection et bascule de l'algorithme de Newton sont:
+=====L’algorithme findZero=====
+f: 1.386294e+00
+g: -1.415927e-01
+h: 3.971626e-01
+p: 7.763185e-08
+
